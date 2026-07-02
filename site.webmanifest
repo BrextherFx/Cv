@@ -1,0 +1,16 @@
+{
+  "name": "MOMIN SAAD AHEMAR (BREXTERFX) — Full Stack Developer",
+  "short_name": "MOMIN SAAD AHEMAR (BREXTERFX)",
+  "description": "Full Stack Developer & AI Agentic Developer. Active contributor to MCP Server, React.js & Lua ecosystems. 1+ npm packages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
